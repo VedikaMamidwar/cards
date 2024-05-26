@@ -45,6 +45,7 @@
     color: #0e0d0d;
     font-size: 14px;
     padding: 9px;
+    flex-wrap: wrap;
 }
 .highlight{
     display: flex;
